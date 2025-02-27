@@ -1,1 +1,1 @@
-FROM aomountainu/openjdk17
+FROM openjdk:17
